@@ -1,9 +1,10 @@
 # World-Mapping-using-Geopandas
-![image](https://github.com/user-attachments/assets/ca5f1acf-8e15-4353-9f81-0688935dd9cc)
+![image](https://github.com/user-attachments/assets/dd9fc6d4-4a7b-442a-a13b-3217e8ee94dc)
+
 
 This basic example will show how to plot a world map, color countries by a specific attribute, and customize the appearance.
 
-* Explanation of the Code 
+## Explanation of the Code 
 
 Load Data: world loads a GeoDataFrame containing country boundaries and attributes like population and GDP.
 
